@@ -18,4 +18,9 @@
 
 ## 4번 (Figam로 SPA 기획하기)
 
--- 스크린샷 넣기
+![스크린샷(34)](https://github.com/PM950704/React/assets/127920204/393d9da9-2a77-467a-85f3-f57b6de7c384)
+
+> Figma를 이용하여 SPA(Single Page Application)을 기획해보았습니다.
+> 정보 칸의 원은 사진이 들어가고
+> 언어의 숙련도를 한눈에 알아보기 쉽게 표현했습니다.
+> 또한 이번에 html, JS, JSX로 만든 웹사이트를 페이지의 맨 밑에 보여주었습니다.
