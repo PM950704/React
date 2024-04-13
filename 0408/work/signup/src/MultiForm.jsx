@@ -10,7 +10,13 @@ export default class MultiForm extends Component {
       username: '',
       password: '',
     };
-  }
+    }
+    doChange(e) {
+        const userValue = e.target.value
+        const key = e.target.name
+        this.setState({ [key]: userValue })
+    }
+
   // 전송 버튼을 눌렀을 때
   doSubmit(e) {
     e.preventDefault();
