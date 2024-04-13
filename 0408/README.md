@@ -5,7 +5,8 @@
 
 ### 회원가입
 
-**사진**
+![스크린샷 2024-04-13 163840](https://github.com/PM950704/React/assets/127920204/d9d1054c-b3ae-49ff-913f-3f97b90d2164)
+
 
 ```
 import React, { Component } from 'react';
@@ -46,7 +47,8 @@ export default class MultiForm extends Component {
 
 ### 컴포넌트 및 state를 사용한 웹사이트 만들기
 
-**사진**
+![스크린샷 2024-04-13 163728](https://github.com/PM950704/React/assets/127920204/64f940f4-3741-4793-8fee-f6a4693f5b6c)
+
 
 > userInfo, Counter, message 컴포넌트를 만들었고 UserInfo에는 이름과 나이를 message에는 취미 버튼을 누르면 해당 사람의 취미를 볼 수 있게 설계 했습니다.
 > 마지막으로 페이지 맨 밑에 몇 명을 보았는지 count 할 수 있는 Counter를 만들어 인원을 셀 수 있게 해놓았습니다.
@@ -55,7 +57,9 @@ export default class MultiForm extends Component {
 
 ### SetState
 
-**사진**
+![스크린샷 2024-04-13 172112](https://github.com/PM950704/React/assets/127920204/62113521-aed8-4955-99ea-04105150ca71)
+
+![스크린샷 2024-04-13 172120](https://github.com/PM950704/React/assets/127920204/c37ab831-bce2-4851-bf66-eadc5a22ab26)
 
 #### State를 사용하는 이유
 
@@ -69,7 +73,8 @@ export default class MultiForm extends Component {
 
 ### Class Component
 
-**사진**
+![스크린샷 2024-04-13 172541](https://github.com/PM950704/React/assets/127920204/2f4b6e89-d4c1-4b13-a487-612ae3fee3c7)
+
 
 #### State 사용
 
@@ -101,7 +106,9 @@ counter: prevState.counter + props.increment
 
 ### EventHandling
 
-**사진**
+![스크린샷 2024-04-13 172411](https://github.com/PM950704/React/assets/127920204/3434ecb5-bb0f-4128-b1c1-4cf115a764fd)
+
+![스크린샷 2024-04-13 172436](https://github.com/PM950704/React/assets/127920204/af23509f-9f67-4779-bfb5-87491871bb94)
 
 #### 리액트 EventHandling 문법
 
@@ -122,13 +129,15 @@ setMyName(myName === "홍길동" ? "김길동" : "홍길동");
 
 ### Component Life Cycle
 
-**사진**
+![스크린샷 2024-04-13 171536](https://github.com/PM950704/React/assets/127920204/ca4c2181-f159-4fd9-b7f3-5120095bbcf1)
+
 
 **Mounting -> Updating -> Unmounting**
 
 ### Input Form
 
-**사진**
+![스크린샷 2024-04-13 172312](https://github.com/PM950704/React/assets/127920204/f714e8cd-8394-43b0-a650-8f2131a4ef76)
+
 
 > 0408에서 배운 내용들을 종합하여 Input Form을 간단하게 만들어보았다.
 > 입력 Form에 숫자나 문자만 받을 수 있게 설정이 가능하니 참고하면 좋을 것 같다.
